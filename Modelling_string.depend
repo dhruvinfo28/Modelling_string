@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589906784 source:e:\books\c++ projects\modelling_string\main.cpp
+	<iostream>
+	"MyString.h"
+
+1589906750 e:\books\c++ projects\modelling_string\include\mystring.h
+	<iostream>
+
+1589891906 source:e:\books\c++ projects\modelling_string\src\mystring.cpp
+	"MyString.h"
+	<cstring>
+	<iostream>
+
